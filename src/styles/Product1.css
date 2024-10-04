@@ -1,0 +1,106 @@
+.extraction-section {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin-top: 25px;
+}
+
+.extraction-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 40px;
+    font-family: 'Times New Roman', serif;
+}
+
+
+.extraction-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+
+ .description-l {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 40px;
+    width: 30%;
+}
+.description-r {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 40px;
+    width: 30%;
+}
+
+
+
+.coffee-machine-image {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.coffee-machine-image img {
+    max-width: 450px;
+    width: 100%;
+   border-radius: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.item-list{
+  
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    gap: 10px; 
+}
+
+.item-list img {
+    width: 90px;
+    
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.item-list h4 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+
+.item-list p {
+    font-size: 0.8rem;
+    color: #030303;
+    
+  
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .extraction-content {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .features-left, .features-right {
+        width: 100%;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .coffee-machine-image img {
+        max-width: 250px;
+        margin: 20px 0;
+    }
+}
+

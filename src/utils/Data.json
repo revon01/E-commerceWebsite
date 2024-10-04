@@ -1,0 +1,125 @@
+{
+  "main": {
+    "logo": "https://ecomposer.app/images/logo-text.png",
+    "banner": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ntF5oAW6gKbg-hr-cf-2.png?v=1723535496",
+    "banner1": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-RUYPYkqNjZcoffee-m-layer.png?v=1723540466",
+    "banner2": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-mRuu436zTFlogo-br.png?v=1723540535",
+    "buttonImage": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-1mTuTgocOabn-newsletter.png?v=1723630121"
+  },
+  "best": {
+    "product": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Ia5VaL9r8abn-1.png?v=1723601620",
+    "product1": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-t4iVUOFHX6bn-c2.png?v=1723602029",
+    "product2": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-1ca2N7EfOPbn-c3.png?v=1723602052"
+  },
+  "Extraction": {
+    "product": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-9CKZqpruBGmaker-cff.png?v=1723683337",
+    "product1": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-0Hw0Dbas33ft-cff-2.png?v=1723605148",
+    "product2": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-uFHffGBorsft-cff-5.png?v=1723605596",
+    "product3": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-uFHffGBorsft-cff-5.png?v=1723605596",
+    "product4": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-toQO4pwSu4ft-cff-6.png?v=1723605417",
+    "product5": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-3jVscJPSjOft-cff-1.png?v=1723604954",
+    "product6": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Qn0ShNQ8uift-cff-3.png?v=1723605193",
+    "product7": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-uFHffGBorsft-cff-5.png?v=1723605596"
+  },
+  "Warranty": {
+    "product": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-h5765rKSIzft-ic-1.png?v=1723607026",
+    "product1": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-m1AWrHYBKKft-ic-2.png?v=1723607142",
+    "product2": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-b8q7zMqLKUft-ic-3.png?v=1723607159"
+  },
+  "images": {
+    "item1": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-tTTPZbAWg6ft-ic-6.png?v=1723609723",
+    "item2": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-HMAzIWy2igft-ic-7.png?v=1723609752",
+    "item3": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-RTOJBFr6Erft-ic-5.png?v=1723609687",
+    "item4": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-et4ncapLwRft-ic-4.png?v=1723609603"
+  },
+
+  
+    "footerImage": {
+      "logo": "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-4V9nWEPuPOlogo-hc-1.png?v=1724641994",
+      "paymentModes": 
+        "https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ZTbOOI3C6atrust-hc.png?v=1724641892"
+        
+      
+    
+  },
+
+  "ContactUs":{
+    "image":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-2RgmJOxbvBbg-hr-search.png?v=1724402439",
+   "Ordertracking":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Te8cHLsQU8icon-hc-1.png?v=1724405573",
+   "Return":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Cbwk5YMW5Dicon-hc-2.png?v=1724405681",
+    "method1":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-YGrRM9IVGXicon-lc-1.png?v=1724638892",
+    "method2":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-Lv4LCle25Yicon-lc-2.png?v=1724639488",
+    "method3":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-nXKveOYRkzicon-lc-3.png?v=1724639522",
+    "method4":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-qX7d2R8frVicon-lc-4.png?v=1724639557"
+  },
+  
+  
+  "HelpDesk":{
+    "image1":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-TSKqG0pC2uic-hp-1.png?v=1724407135",
+    "image2":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ry1vhOiRg8ic-hp-2.png?v=1724407185",
+    "image3":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-ry1vhOiRg8ic-hp-2.png?v=1724407185",
+    "image4":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-JYbi3Qpv20ic-hp-4.png?v=1724634293",
+    "image5":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-NcXYj3LOv3ic-hp-5.png?v=1724634338",
+    "image6":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-zO0BfEcTlSic-hp-6.png?v=1724634383"
+  },
+  
+  
+  "coffeeMakersData": [
+    {
+      "feature": "Advanced Brewing Tech",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": false,
+      "otherCoffeeMaker2": false
+    },
+    {
+      "feature": "Customizable Settings",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": null,
+      "otherCoffeeMaker2": false
+    },
+    {
+      "feature": "Sleek Design",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": false,
+      "otherCoffeeMaker2": null
+    },
+    {
+      "feature": "Durability",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": null,
+      "otherCoffeeMaker2": false
+    },
+    {
+      "feature": "Money-Back Guarantee",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": null,
+      "otherCoffeeMaker2": false
+    },
+    {
+      "feature": "Easy to Clean",
+      "ourCoffeeMaker": true,
+      "otherCoffeeMaker1": false,
+      "otherCoffeeMaker2": null
+    }
+  ],
+
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Coffeemaker, Coffee Center Barista Bar 4-in-1 Coffee Machine",      "price": 269.00,
+      "originalPrice": 299.00,
+      "discountPercentage": 10,
+      "rating": { "stars": 4.7, "reviews": 275 },
+      "features": [
+        "Color: Black",
+        "Product Dimensions: 11.88\"D x 12.88\"W x 16.75\"H",
+        "Special Feature: Milk Frother",
+        "Coffee Maker Type: Drip Coffee Machine"
+      ],
+      "image": "https://ecomposer-awesome-library.myshopify.com/cdn/shop/files/main-p-cff2.jpg?v=1723622634&width=1946",
+      "buttom-image":"https://ecomposer-awesome-library.myshopify.com/cdn/shop/files/main-p-cff5_200x.png?v=1723622781"
+    }
+    ]
+  }
+  

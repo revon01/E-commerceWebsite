@@ -1,0 +1,195 @@
+.footer {
+    background-color: #fff;
+    padding: 20px;
+    border-top: 1px solid #e0e0e0;
+    font-family: 'Arial', sans-serif;
+    width: 100%;
+    display:flex;
+    /* border: top; */
+  
+   
+  }
+  
+  .footer-container {
+ 
+    margin: 0;
+    padding: 0 20px;
+    /* justify-content: space-between; */
+    display: flex;
+    flex:1;
+    gap: 50px;
+    
+    
+    
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: center;
+     margin-bottom: 10px;
+    flex-direction: column;
+    width: 35%;
+   margin-left: 100px;
+
+  }
+  
+  .footer-l {
+    flex: 1;
+    margin-top: 20px;
+
+  }
+  
+  .footer-logo-img {
+    width: 130px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+  }
+  
+  .footer-l p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+    margin-left: 70px;
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+  }
+  
+  .footer-left p:first-of-type {
+    margin-bottom: 5px;
+  }
+  
+  .footer-down {
+    margin-top: 10px;
+    flex: 1;
+    text-align: left;
+  }
+  
+  .footer-down p {
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+  }
+  
+  .subscription-form {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border: 1px solid #929191;
+    padding: 10px;
+    
+    max-width: 350px;
+  }
+  
+  .subscription-form input {
+    border: none;
+    padding: 8px;
+    flex: 1;
+    font-size: 14px;
+  }
+  
+  .subscription-form button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .subscription-form button:hover {
+    background-color: #333;
+  }
+
+  
+  
+  .footer-right {
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+   
+ 
+    
+    
+  }
+  
+  .footer-columns {
+    display: flex;
+    justify-content: space-between;
+    gap:100px;
+    /* width:100% */
+
+  }
+  
+  .footer-column {
+    /* flex: 2; */
+    padding: 0 10px;
+   
+  
+  }
+  
+  .footer-column h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .footer-column ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .footer-column ul li {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+    padding: 8px;
+  }
+  
+  .footer-column ul li:hover {
+    color: #000;
+    cursor: pointer;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+  }
+  
+  .footer-bottom p {
+    font-size: 14px;
+    color: #999;
+    margin: 0;
+  }
+
+  .bottom-heading{
+    display: flex;
+    
+  
+    justify-content:flex;
+    width:100%
+  }
+  .footer-bottom p{
+  
+    font-size: 14px;
+   
+   
+    font-weight: bold;
+    /* background-color: red; */
+    margin-left: 120px;
+  }
+  
+  .payment-methods {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .payment-methods img {
+ width: 500px;
+ margin-left: 700px;
+    
+  }
+  

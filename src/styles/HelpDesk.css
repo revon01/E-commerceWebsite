@@ -1,0 +1,92 @@
+
+.help-desk {
+    padding: 10px;
+    background-color:white;
+    width: 100%;
+    margin-top: 200px;
+    margin-bottom: 50px;
+
+
+  }
+  
+  .help-desk h2 {
+    text-align: center;
+    font-size: 35px;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: bold;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .main-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    width: 100%;
+    height: 100%;
+    gap: 50px; 
+    margin-left: 500px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+  
+
+    
+  }
+  
+  .help-item {
+    background-color: #f4f4fb; 
+    padding: 20px;
+width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease; 
+   
+  }
+  
+  .help-item:hover {
+    transform: translateY(-5px); 
+  }
+  
+
+  .help-item img {
+    max-width: 80px;
+    margin-bottom: 15px;
+
+  }
+  
+
+  .help-item h3 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+
+  .help-item p {
+    font-size: 14px;
+    color: #070606;
+    margin-top: 15px;
+  }
+  
+  .help-item p:last-child {
+   
+    color: #070607;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 40px;
+    font-weight: bold;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .main-container {
+      grid-template-columns: 1fr 1fr; 
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .main-container {
+      grid-template-columns: 1fr; 
+    }
+  }
+  

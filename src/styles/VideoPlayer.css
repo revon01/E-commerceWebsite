@@ -1,0 +1,52 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 1300px; 
+    margin: auto; 
+    
+ 
+  
+  }
+  
+  .video-main {
+    position: relative;
+  }
+  
+  video {
+    width: 100%; 
+    border-radius: 20px; 
+  }
+  
+  .play-button {
+    position: absolute;
+    position: absolute;
+    top:86%;
+    left: 8%;
+    border-radius: 10px;
+   
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: rgba(26, 25, 25, 0.089);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .play-button:hover {
+    background-color: rgba(220, 222, 224, 0.9); 
+  }
+  
+
+  @media (max-width: 768px) {
+    .play-button {
+        top: 80%; 
+        left: 5%; 
+        padding: 8px 15px; 
+        font-size: 16px;
+    }
+
+    video {
+        border-radius: 10px;
+    }
+}
